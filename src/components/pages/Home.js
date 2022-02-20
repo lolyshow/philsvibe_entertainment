@@ -79,7 +79,7 @@ class Home extends React.Component{
                 <div className="container">
                     <div className = "row">
                         <div className = "col-md-12 mb-4 text-center">
-                            <h3 className = "main-heading"> Our Servces</h3>
+                            <h3 className = "main-heading mt-5"> Our Servces</h3>
                             <div className = "underline mx-auto"></div>
                         </div>
 
