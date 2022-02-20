@@ -55,7 +55,7 @@ class Home extends React.Component{
             <section className = "section">
                 <div className="container">
                     <div className = "row">
-                        <div className = "col-md-12 text-center">
+                        <div className = "col-md-12 text-center mt-5">
                            <h3 className = "main-heading"> Our Company</h3>
                            <div className = "underline mx-auto"></div>
                            <p>Profile Summary I am an innovative, meticulous and result-oriented Software Engineer with over 3 years of Experience in developing dynamic Web Application software, Desktop Application, USSD Application and Mobile Application. I am an exceptional developer who has successfully executed software applications that supports large number of traffic in a second, mentored upcoming Software Engineers, and developed innovative ICT solutions for various organizations. I’m always eager to lean, seek and acquire various technical skills that are very useful in the execution of my role as a software engineer </p>
@@ -68,6 +68,7 @@ class Home extends React.Component{
 
             {/* Our Vision and Values */}
 
+            
 
             <VMC />
 
@@ -101,7 +102,7 @@ class Home extends React.Component{
                             <img src = {Service1} className = "w-100 border-bottom" alt = ""/>
 
                                 <div className = "card-body">
-                                    <h6>Service 1</h6>
+                                    <h6>Service 2</h6>
                                     <div className = "underline"></div>
                                     <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
                                     </p>
@@ -116,7 +117,7 @@ class Home extends React.Component{
                             <img src = {Service1} className = "w-100 border-bottom" alt = ""/>
 
                                 <div className = "card-body">
-                                    <h6>Service 1</h6>
+                                    <h6>Service 3</h6>
                                     <div className = "underline"></div>
                                     <p> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
                                     </p>

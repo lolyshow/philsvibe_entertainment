@@ -6,7 +6,7 @@ let VMC = ()=>{
             <div className="container">
                 <div className = "row">
                     <div className = "col-md-12 text-center">
-                        <h3 className = "main-heading"> Our Vision and Values</h3>
+                        <h3 className = "main-heading mt-4"> Our Vision and Values</h3>
                         <div className = "underline mx-auto"></div>
                     </div>
 
