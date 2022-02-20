@@ -21,7 +21,7 @@ const Slider = () =>{
     <div class="carousel-item">
       <img src={img} class="d-block w-100" alt="..."/>
       <div class="carousel-caption d-none d-md-block">
-        <p>Our Combatant Project Managers</p>
+        <p>OluwaToyin I Love you :)</p>
       </div>
     </div>
     <div class="carousel-item">
