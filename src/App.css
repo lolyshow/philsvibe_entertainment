@@ -1,0 +1,104 @@
+.session{
+  padding-top: 40px;
+  padding-bottom:40px ;
+}
+.bg-c-light{
+  margin-top: 20px;
+  background-color: #f2f2f2;
+}
+.color-black{
+  color: black;
+}
+.underline{
+  height:04px;
+  width: 4rem;
+  background-color: #f76c2f;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.underline2{
+  height:1px;
+  width: 100%;
+  background-color: #d1cfcf80;
+}
+.main-card{
+  color:white;
+  
+}
+ #p{
+  color:white;
+  font-size: 14px;
+}
+
+
+
+.card-body{
+  /* width: 70%;
+  height: 3%; */
+  /* font-size: 10px; */
+  /* background-color: #c3595f; */
+}
+
+.atm-body{
+  width: 60%;
+  background-color: blueviolet;
+  border-radius: 2%;
+  height: 3%;
+  color:white
+}
+.card-options{
+  display: flex;
+  flex-direction: row;
+  float: right;
+
+}
+.main-heading{
+  color:rgb(204,18,18);
+  font-size: 20px;
+}
+.cardOption{
+  /* margin: 2%; */
+  margin-right: 2%;
+  align-self: flex-end;
+}
+
+.car-top-space{
+  margin-top: 20%;
+}
+.summary-Card{
+  display: flex;
+  justify-content: space-between;
+  padding-right: 22px;
+  font-family: sans-serif;
+  /* font-weight: bold; */
+}
+.promoCode{
+  color:#dadde1;
+}
+
+.footer{
+  margin-top: 40px;
+  padding: 20px;
+}
+
+.footer a{
+  color:#fff;
+  text-decoration: none;
+}
+.footer a:hover{
+  color:grey;
+  text-decoration: none;
+}
+
+.form-control{
+  background-color: #1b0808;
+}
+
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,102,203, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,102,203);
+} 
